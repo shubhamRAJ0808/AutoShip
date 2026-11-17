@@ -1,6 +1,6 @@
-# Simple CI/CD Pipeline
+# AutoShip
 
-A beginner-friendly end-to-end CI/CD project that demonstrates how a Node.js web application can be automatically built, tested, containerized, published, and optionally deployed whenever code is pushed to GitHub.
+**AutoShip** is a beginner-friendly end-to-end CI/CD project that demonstrates how a Node.js web application can be automatically built, tested, containerized, published, and optionally deployed whenever code is pushed to GitHub.
 
 The application uses **Express** for the web server and **PostgreSQL 16** to store a page-visit counter. Docker Compose runs the web application and database as two containers.
 
